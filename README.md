@@ -1,1 +1,1 @@
-# CSE-591-Data-Visualization
+# Visual recommender for Stackoverflow database
